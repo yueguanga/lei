@@ -1,0 +1,11 @@
+public class Stu {
+    int id;
+    int age;
+    String name;
+    public void xuexi(){
+        System.out.println("开始学习");
+    }
+    public void dagong(){
+        System.out.println("准备进厂");
+    }
+}
